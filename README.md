@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianathainara&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Knowledge
  ![Vue JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
  ![Tailwild Css](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=4FC08D)
